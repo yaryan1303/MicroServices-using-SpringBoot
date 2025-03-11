@@ -1,10 +1,10 @@
-package com.embarkx.FirstJobApp;
+package com.embarkx.jobms;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class FirstJobAppApplicationTests {
+class JobmsApplicationTests {
 
 	@Test
 	void contextLoads() {
